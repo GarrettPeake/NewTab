@@ -87,6 +87,7 @@ a:hover{
 
 #enter-pic{
     max-width:90%;
+    border-radius: 30%;
     padding: 10.5% 0%;
     height: auto;
 }
