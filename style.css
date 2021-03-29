@@ -1,9 +1,9 @@
 b {
-    font-size: 2.1vh;
+    font-size: 3vh;
 }
 
 pre {
-    font-size: 1.4vh;
+    font-size: 2vh;
 }
 
 a {
@@ -87,7 +87,7 @@ a:hover{
 
 #enter-pic{
     max-width:90%;
-    border-radius: 30%;
+    border-radius: 25%;
     padding: 10.5% 0%;
     height: auto;
 }
